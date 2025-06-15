@@ -1,4 +1,6 @@
+#📈 A working trading algorithm using simple signal logic
 # PythonTradingAlgo24-
+
 python
 import pandas as pd
 import yfinance as yf
